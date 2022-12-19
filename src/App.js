@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import MyComponent from './Components/MyComponent';
 import TextForm from './Components/TextForm';
